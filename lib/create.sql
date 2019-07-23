@@ -1,5 +1,4 @@
 CREATE TABLE bears (
-  //columns here
   id INTEGER,
   name TEXT,
   age INTEGER,
